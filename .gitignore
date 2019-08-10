@@ -1,0 +1,13 @@
+Makefile
+metadata.json
+icons
+/screenshots/
+nuvola-app-idagio
+eu.tiliado.NuvolaAppIdagio.desktop
+eu.tiliado.NuvolaAppIdagio.service
+eu.tiliado.NuvolaAppIdagio.appdata.xml
+nuvola-app-idagio.metainfo.xml
+eu.tiliado.WebRuntimeAppIdagio.desktop
+eu.tiliado.WebRuntimeAppIdagio.service
+eu.tiliado.WebRuntimeAppIdagio.appdata.xml
+nuvola-app-idagio.metainfo.xml
